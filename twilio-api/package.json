@@ -1,0 +1,15 @@
+{
+  "name": "twilio-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepika",
+  "license": "ISC",
+  "dependencies": {
+    "serverless-plugin-existing-s3": "^2.0.3",
+    "twilio": "^2.11.1"
+  }
+}
